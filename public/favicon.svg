@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Tridesain Studio icon">
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#111827"/>
+  <path d="M34 90V38h18l18 20V38h18v52H70L52 70v20H34zm52 0V38h18v52H86z" fill="url(#g)"/>
+  <circle cx="94" cy="32" r="9" fill="#fbbf24"/>
+</svg>
